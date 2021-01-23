@@ -10,7 +10,7 @@ namespace GenericsIntro
             MyList<string> isimler = new MyList<string>();
             isimler.Add("Engin");
 
-            List<string> liste = new List<string>();
+            List<string> liste = new List<string>(); //bunun yerine MyList i kendimiz oluşturduk
             Console.WriteLine(liste.Count);
 
             Console.WriteLine("Hello World!");
