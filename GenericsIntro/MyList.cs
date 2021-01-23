@@ -25,4 +25,5 @@ namespace GenericsIntro // generic ler çalışılacak özel bir tip için hazı
 
         }
     }
+
 }
